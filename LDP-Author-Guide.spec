@@ -6,6 +6,7 @@ Release:	1
 License:	distributable
 Group:		Documentation
 Source0:	http://www.tldp.org/LDP/%{name}.html.tar.gz
+# Source0-md5:	618a6538d1e162a096266fc62ee81af4
 URL:		http://www.tldp.org/LDP/LDP-Author-Guide/index.html
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
