@@ -1,5 +1,5 @@
 Summary:	LDP Author Guide
-Summary(pl):	Podrêcznik LDP
+Summary(pl):	Podrêcznik dla autorów LDP
 Name:		LDP-Author-Guide
 Version:	3.14
 Release:	1
