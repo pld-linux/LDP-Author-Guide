@@ -26,7 +26,7 @@ write your own HOWTO.
 W tym podrêczniku wymienione s± narzêdzia, procedury i wskazówki,
 które u³atwiaj± ¿ycie autorom dokumentów LDP.
 
-Jest wiele sposobów wspierania ruchu spo³eczno¶ci Linuksowej,
+Jest wiele sposobów wspierania ruchu spo³eczno¶ci linuksowej,
 niekoniecznie trzeba programowaæ. Jednym z najwa¿niejszych jest
 pisanie dokumentacji, pozwala to dzieliæ siê swoj± wiedz± z tysi±cami
 u¿ytkowników z ca³ego ¶wiata. Ten przewodnik jest po to, ¿eby¶
