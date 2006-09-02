@@ -40,7 +40,7 @@ potrzebne do napisania w³asnego HOWTO.
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_docdir}/LDP/%{name}
-cp -ar * $RPM_BUILD_ROOT%{_docdir}/LDP/%{name}
+cp -a * $RPM_BUILD_ROOT%{_docdir}/LDP/%{name}
 
 %clean
 rm -rf $RPM_BUILD_ROOT
