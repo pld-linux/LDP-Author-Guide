@@ -1,5 +1,5 @@
 Summary:	LDP Author Guide
-Summary(pl):	Podrêcznik dla autorów LDP
+Summary(pl.UTF-8):   PodrÄ™cznik dla autorÃ³w LDP
 Name:		LDP-Author-Guide
 Version:	3.14
 Release:	1
@@ -23,16 +23,16 @@ thousands of others around the world. This Guide is designed to help
 you get familiar with how the LDP works, and what tools you'll need to
 write your own HOWTO.
 
-%description -l pl
-W tym podrêczniku wymienione s± narzêdzia, procedury i wskazówki,
-które u³atwiaj± ¿ycie autorom dokumentów LDP.
+%description -l pl.UTF-8
+W tym podrÄ™czniku wymienione sÄ… narzÄ™dzia, procedury i wskazÃ³wki,
+ktÃ³re uÅ‚atwiajÄ… Å¼ycie autorom dokumentÃ³w LDP.
 
-Jest wiele sposobów wspierania ruchu spo³eczno¶ci linuksowej,
-niekoniecznie trzeba programowaæ. Jednym z najwa¿niejszych jest
-pisanie dokumentacji, pozwala to dzieliæ siê swoj± wiedz± z tysi±cami
-u¿ytkowników z ca³ego ¶wiata. Ten przewodnik jest po to, ¿eby¶
-zaznajomi³(a) siê z tym jak dzia³a LDP i jakie narzêdzia bêd± Ci
-potrzebne do napisania w³asnego HOWTO.
+Jest wiele sposobÃ³w wspierania ruchu spoÅ‚ecznoÅ›ci linuksowej,
+niekoniecznie trzeba programowaÄ‡. Jednym z najwaÅ¼niejszych jest
+pisanie dokumentacji, pozwala to dzieliÄ‡ siÄ™ swojÄ… wiedzÄ… z tysiÄ…cami
+uÅ¼ytkownikÃ³w z caÅ‚ego Å›wiata. Ten przewodnik jest po to, Å¼ebyÅ›
+zaznajomiÅ‚(a) siÄ™ z tym jak dziaÅ‚a LDP i jakie narzÄ™dzia bÄ™dÄ… Ci
+potrzebne do napisania wÅ‚asnego HOWTO.
 
 %prep
 %setup -q -n %{name}
