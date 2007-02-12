@@ -1,5 +1,5 @@
 Summary:	LDP Author Guide
-Summary(pl.UTF-8):   Podręcznik dla autorów LDP
+Summary(pl.UTF-8):	Podręcznik dla autorów LDP
 Name:		LDP-Author-Guide
 Version:	3.14
 Release:	1
